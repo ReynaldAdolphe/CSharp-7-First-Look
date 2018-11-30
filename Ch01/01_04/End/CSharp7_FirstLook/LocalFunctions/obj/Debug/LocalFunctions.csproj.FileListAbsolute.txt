@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_03\Begin\CSharp7_FirstLook\LocalFunctions\bin\Debug\LocalFunctions.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_03\Begin\CSharp7_FirstLook\LocalFunctions\bin\Debug\LocalFunctions.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_03\Begin\CSharp7_FirstLook\LocalFunctions\bin\Debug\LocalFunctions.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_03\Begin\CSharp7_FirstLook\LocalFunctions\obj\Debug\LocalFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_03\Begin\CSharp7_FirstLook\LocalFunctions\obj\Debug\LocalFunctions.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_03\Begin\CSharp7_FirstLook\LocalFunctions\obj\Debug\LocalFunctions.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_04\End\CSharp7_FirstLook\LocalFunctions\bin\Debug\LocalFunctions.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_04\End\CSharp7_FirstLook\LocalFunctions\bin\Debug\LocalFunctions.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_04\End\CSharp7_FirstLook\LocalFunctions\bin\Debug\LocalFunctions.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_04\End\CSharp7_FirstLook\LocalFunctions\obj\Debug\LocalFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_04\End\CSharp7_FirstLook\LocalFunctions\obj\Debug\LocalFunctions.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_04\End\CSharp7_FirstLook\LocalFunctions\obj\Debug\LocalFunctions.pdb

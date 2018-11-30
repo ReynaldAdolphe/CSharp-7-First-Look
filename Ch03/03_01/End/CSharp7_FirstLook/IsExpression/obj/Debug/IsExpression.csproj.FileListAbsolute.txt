@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\End\CSharp7_FirstLook\IsExpression\bin\Debug\IsExpression.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\End\CSharp7_FirstLook\IsExpression\bin\Debug\IsExpression.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\End\CSharp7_FirstLook\IsExpression\bin\Debug\IsExpression.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\End\CSharp7_FirstLook\IsExpression\obj\Debug\IsExpression.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\End\CSharp7_FirstLook\IsExpression\obj\Debug\IsExpression.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\End\CSharp7_FirstLook\IsExpression\obj\Debug\IsExpression.pdb

@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\CSharp7_FirstLook\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\CSharp7_FirstLook\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\CSharp7_FirstLook\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\CSharp7_FirstLook\SwitchStatements\obj\Debug\SwitchStatements.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\CSharp7_FirstLook\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Begin\CSharp7_FirstLook\SwitchStatements\obj\Debug\SwitchStatements.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\CSharp7_FirstLook\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\CSharp7_FirstLook\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\CSharp7_FirstLook\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\CSharp7_FirstLook\SwitchStatements\obj\Debug\SwitchStatements.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\CSharp7_FirstLook\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\CSharp7_FirstLook\SwitchStatements\obj\Debug\SwitchStatements.pdb

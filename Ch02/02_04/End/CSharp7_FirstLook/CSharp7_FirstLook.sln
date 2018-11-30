@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deconstruction", "Deconstruction\Deconstruction.csproj", "{D9D32AB4-E518-408C-ADEB-B5BDD7872DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deconstruction_2", "Deconstruction_2\Deconstruction_2.csproj", "{D1047A73-C1D7-4762-8DB9-E3BF7824D4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D32AB4-E518-408C-ADEB-B5BDD7872DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D32AB4-E518-408C-ADEB-B5BDD7872DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D32AB4-E518-408C-ADEB-B5BDD7872DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D32AB4-E518-408C-ADEB-B5BDD7872DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1047A73-C1D7-4762-8DB9-E3BF7824D4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1047A73-C1D7-4762-8DB9-E3BF7824D4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1047A73-C1D7-4762-8DB9-E3BF7824D4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1047A73-C1D7-4762-8DB9-E3BF7824D4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

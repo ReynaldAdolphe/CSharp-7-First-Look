@@ -1,0 +1,13 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\Throw\bin\Debug\Throw.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\Throw\bin\Debug\Throw.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\Throw\bin\Debug\Throw.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\Throw\obj\Debug\Throw.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\Throw\obj\Debug\Throw.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\Throw\obj\Debug\Throw.pdb
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_04\End\CSharp7_FirstLook\Throw\bin\Debug\Throw.exe.config
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_04\End\CSharp7_FirstLook\Throw\bin\Debug\Throw.exe
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_04\End\CSharp7_FirstLook\Throw\bin\Debug\Throw.pdb
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_04\End\CSharp7_FirstLook\Throw\obj\Debug\Throw.csprojAssemblyReference.cache
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_04\End\CSharp7_FirstLook\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_04\End\CSharp7_FirstLook\Throw\obj\Debug\Throw.exe
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_04\End\CSharp7_FirstLook\Throw\obj\Debug\Throw.pdb

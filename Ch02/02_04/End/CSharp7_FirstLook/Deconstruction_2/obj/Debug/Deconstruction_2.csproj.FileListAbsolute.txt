@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction_2\bin\Debug\Deconstruction_2.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction_2\bin\Debug\Deconstruction_2.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction_2\bin\Debug\Deconstruction_2.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction_2\obj\Debug\Deconstruction_2.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction_2\obj\Debug\Deconstruction_2.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction_2\bin\Debug\System.ValueTuple.dll

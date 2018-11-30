@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\Begin\CSharp7_FirstLook\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\Begin\CSharp7_FirstLook\Tuples\bin\Debug\Tuples.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\Begin\CSharp7_FirstLook\Tuples\bin\Debug\Tuples.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\Begin\CSharp7_FirstLook\Tuples\obj\Debug\Tuples.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\Begin\CSharp7_FirstLook\Tuples\obj\Debug\Tuples.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\End\CSharp7_FirstLook\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\End\CSharp7_FirstLook\Tuples\bin\Debug\Tuples.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\End\CSharp7_FirstLook\Tuples\bin\Debug\Tuples.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\End\CSharp7_FirstLook\Tuples\bin\Debug\System.ValueTuple.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\End\CSharp7_FirstLook\Tuples\obj\Debug\Tuples.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\End\CSharp7_FirstLook\Tuples\obj\Debug\Tuples.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_03\End\CSharp7_FirstLook\Tuples\obj\Debug\Tuples.pdb

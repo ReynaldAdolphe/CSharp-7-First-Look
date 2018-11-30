@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\Begin\CSharp7_FirstLook\OutVariable\bin\Debug\OutVariable.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\Begin\CSharp7_FirstLook\OutVariable\bin\Debug\OutVariable.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\Begin\CSharp7_FirstLook\OutVariable\bin\Debug\OutVariable.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\Begin\CSharp7_FirstLook\OutVariable\obj\Debug\OutVariable.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\Begin\CSharp7_FirstLook\OutVariable\obj\Debug\OutVariable.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\Begin\CSharp7_FirstLook\OutVariable\obj\Debug\OutVariable.pdb

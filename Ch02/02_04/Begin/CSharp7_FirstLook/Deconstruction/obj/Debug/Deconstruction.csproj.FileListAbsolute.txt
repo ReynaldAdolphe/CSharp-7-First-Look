@@ -1,0 +1,14 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\Begin\CSharp7_FirstLook\Deconstruction\bin\Debug\Deconstruction.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\Begin\CSharp7_FirstLook\Deconstruction\bin\Debug\Deconstruction.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\Begin\CSharp7_FirstLook\Deconstruction\bin\Debug\Deconstruction.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\Begin\CSharp7_FirstLook\Deconstruction\bin\Debug\System.ValueTuple.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\Begin\CSharp7_FirstLook\Deconstruction\obj\Debug\Deconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\Begin\CSharp7_FirstLook\Deconstruction\obj\Debug\Deconstruction.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\Begin\CSharp7_FirstLook\Deconstruction\obj\Debug\Deconstruction.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction\bin\Debug\Deconstruction.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction\bin\Debug\Deconstruction.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction\bin\Debug\Deconstruction.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction\bin\Debug\System.ValueTuple.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction\obj\Debug\Deconstruction.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction\obj\Debug\Deconstruction.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_05\End\CSharp7_FirstLook\Deconstruction\obj\Debug\Deconstruction.pdb

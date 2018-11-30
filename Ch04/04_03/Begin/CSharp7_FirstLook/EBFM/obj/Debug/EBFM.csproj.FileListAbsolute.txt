@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.pdb

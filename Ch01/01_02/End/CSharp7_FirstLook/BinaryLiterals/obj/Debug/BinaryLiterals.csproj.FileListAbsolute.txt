@@ -1,0 +1,13 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_01\End\CSharp7_FirstLook\BinaryLiterals\bin\Debug\BinaryLiterals.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_01\End\CSharp7_FirstLook\BinaryLiterals\bin\Debug\BinaryLiterals.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_01\End\CSharp7_FirstLook\BinaryLiterals\bin\Debug\BinaryLiterals.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_01\End\CSharp7_FirstLook\BinaryLiterals\obj\Debug\BinaryLiterals.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_01\End\CSharp7_FirstLook\BinaryLiterals\obj\Debug\BinaryLiterals.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch01\01_01\End\CSharp7_FirstLook\BinaryLiterals\obj\Debug\BinaryLiterals.pdb
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch01\01_02\End\CSharp7_FirstLook\BinaryLiterals\bin\Debug\BinaryLiterals.exe.config
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch01\01_02\End\CSharp7_FirstLook\BinaryLiterals\bin\Debug\BinaryLiterals.exe
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch01\01_02\End\CSharp7_FirstLook\BinaryLiterals\bin\Debug\BinaryLiterals.pdb
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch01\01_02\End\CSharp7_FirstLook\BinaryLiterals\obj\Debug\BinaryLiterals.csprojAssemblyReference.cache
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch01\01_02\End\CSharp7_FirstLook\BinaryLiterals\obj\Debug\BinaryLiterals.csproj.CoreCompileInputs.cache
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch01\01_02\End\CSharp7_FirstLook\BinaryLiterals\obj\Debug\BinaryLiterals.exe
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch01\01_02\End\CSharp7_FirstLook\BinaryLiterals\obj\Debug\BinaryLiterals.pdb

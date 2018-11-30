@@ -1,0 +1,13 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.pdb
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.exe.config
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.exe
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\EBFM\bin\Debug\EBFM.pdb
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.csprojAssemblyReference.cache
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.csproj.CoreCompileInputs.cache
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.exe
+C:\4Dev\Ex_Files_C_Sharp_7_First_Look\Ex_Files_C_Sharp_7_First_Look\Exercise Files\Ch04\04_03\End\CSharp7_FirstLook\EBFM\obj\Debug\EBFM.pdb
